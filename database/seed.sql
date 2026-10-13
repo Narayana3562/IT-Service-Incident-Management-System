@@ -1,0 +1,2 @@
+-- Demo accounts are seeded with a Node.js script so bcrypt hashes are generated correctly.
+-- From the backend folder, run: node scripts/seed.js
